@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>base-micro-service</artifactId>
+    <artifactId>base-microservice</artifactId>
     <version>1.0.0</version>
-    <name>base-micro-service</name>
-    <description>Base micro service</description>
+    <name>base-microservice</name>
+    <description>Base microservice</description>
 
     <modules>
 <!--        <module>demo-service</module>-->
