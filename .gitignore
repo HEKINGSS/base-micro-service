@@ -2,6 +2,7 @@
 *.class
 
 # Log file
+logs
 *.log
 
 # BlueJ files
@@ -28,3 +29,7 @@ replay_pid*
 *.iws
 *.iml
 *.ipr
+
+### Customize
+docker/logs
+docker/data
